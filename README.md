@@ -63,6 +63,23 @@ Contains sales transaction records.
 
 ---
 
+## 📁 Project Structure
+
+```text
+Dynamic-Pricing-Intelligence/
+│
+├── data/
+│   ├── products.csv
+│   ├── competitor_prices.csv
+│   └── sales.csv
+│
+├── notebooks/
+│   └── Dynamic_Pricing_Analysis.ipynb
+│
+├── README.md
+└── requirements.txt
+```
+
 # 🛠 Technologies Used
 
 - Python
@@ -70,7 +87,7 @@ Contains sales transaction records.
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- google colab
 
 ---
 
