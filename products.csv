@@ -1,0 +1,101 @@
+product_id,product_name,category,brand
+P001,Household Item 1,Household,Surf Excel
+P002,Grocery Item 2,Grocery,ABC
+P003,Grocery Item 3,Grocery,ABC
+P004,Household Item 4,Household,Surf Excel
+P005,Snacks Item 5,Snacks,Lays
+P006,Dairy Item 6,Dairy,Amul
+P007,Dairy Item 7,Dairy,Amul
+P008,Dairy Item 8,Dairy,Amul
+P009,Household Item 9,Household,Surf Excel
+P010,Grocery Item 10,Grocery,ABC
+P011,Household Item 11,Household,Surf Excel
+P012,Household Item 12,Household,Surf Excel
+P013,Personal Care Item 13,Personal Care,Dove
+P014,Grocery Item 14,Grocery,ABC
+P015,Personal Care Item 15,Personal Care,Dove
+P016,Beverages Item 16,Beverages,Coca-Cola
+P017,Grocery Item 17,Grocery,ABC
+P018,Grocery Item 18,Grocery,ABC
+P019,Grocery Item 19,Grocery,ABC
+P020,Dairy Item 20,Dairy,Amul
+P021,Dairy Item 21,Dairy,Amul
+P022,Personal Care Item 22,Personal Care,Dove
+P023,Personal Care Item 23,Personal Care,Dove
+P024,Grocery Item 24,Grocery,ABC
+P025,Personal Care Item 25,Personal Care,Dove
+P026,Dairy Item 26,Dairy,Amul
+P027,Household Item 27,Household,Surf Excel
+P028,Household Item 28,Household,Surf Excel
+P029,Household Item 29,Household,Surf Excel
+P030,Personal Care Item 30,Personal Care,Dove
+P031,Beverages Item 31,Beverages,Coca-Cola
+P032,Dairy Item 32,Dairy,Amul
+P033,Beverages Item 33,Beverages,Coca-Cola
+P034,Personal Care Item 34,Personal Care,Dove
+P035,Snacks Item 35,Snacks,Lays
+P036,Grocery Item 36,Grocery,ABC
+P037,Dairy Item 37,Dairy,Amul
+P038,Household Item 38,Household,Surf Excel
+P039,Beverages Item 39,Beverages,Coca-Cola
+P040,Snacks Item 40,Snacks,Lays
+P041,Snacks Item 41,Snacks,Lays
+P042,Dairy Item 42,Dairy,Amul
+P043,Dairy Item 43,Dairy,Amul
+P044,Snacks Item 44,Snacks,Lays
+P045,Grocery Item 45,Grocery,ABC
+P046,Grocery Item 46,Grocery,ABC
+P047,Beverages Item 47,Beverages,Coca-Cola
+P048,Grocery Item 48,Grocery,ABC
+P049,Snacks Item 49,Snacks,Lays
+P050,Snacks Item 50,Snacks,Lays
+P051,Personal Care Item 51,Personal Care,Dove
+P052,Snacks Item 52,Snacks,Lays
+P053,Grocery Item 53,Grocery,ABC
+P054,Household Item 54,Household,Surf Excel
+P055,Beverages Item 55,Beverages,Coca-Cola
+P056,Personal Care Item 56,Personal Care,Dove
+P057,Grocery Item 57,Grocery,ABC
+P058,Beverages Item 58,Beverages,Coca-Cola
+P059,Grocery Item 59,Grocery,ABC
+P060,Personal Care Item 60,Personal Care,Dove
+P061,Snacks Item 61,Snacks,Lays
+P062,Household Item 62,Household,Surf Excel
+P063,Personal Care Item 63,Personal Care,Dove
+P064,Snacks Item 64,Snacks,Lays
+P065,Personal Care Item 65,Personal Care,Dove
+P066,Dairy Item 66,Dairy,Amul
+P067,Household Item 67,Household,Surf Excel
+P068,Grocery Item 68,Grocery,ABC
+P069,Grocery Item 69,Grocery,ABC
+P070,Household Item 70,Household,Surf Excel
+P071,Dairy Item 71,Dairy,Amul
+P072,Snacks Item 72,Snacks,Lays
+P073,Grocery Item 73,Grocery,ABC
+P074,Dairy Item 74,Dairy,Amul
+P075,Grocery Item 75,Grocery,ABC
+P076,Beverages Item 76,Beverages,Coca-Cola
+P077,Snacks Item 77,Snacks,Lays
+P078,Beverages Item 78,Beverages,Coca-Cola
+P079,Household Item 79,Household,Surf Excel
+P080,Snacks Item 80,Snacks,Lays
+P081,Dairy Item 81,Dairy,Amul
+P082,Snacks Item 82,Snacks,Lays
+P083,Snacks Item 83,Snacks,Lays
+P084,Dairy Item 84,Dairy,Amul
+P085,Household Item 85,Household,Surf Excel
+P086,Snacks Item 86,Snacks,Lays
+P087,Household Item 87,Household,Surf Excel
+P088,Household Item 88,Household,Surf Excel
+P089,Household Item 89,Household,Surf Excel
+P090,Grocery Item 90,Grocery,ABC
+P091,Personal Care Item 91,Personal Care,Dove
+P092,Household Item 92,Household,Surf Excel
+P093,Dairy Item 93,Dairy,Amul
+P094,Personal Care Item 94,Personal Care,Dove
+P095,Household Item 95,Household,Surf Excel
+P096,Dairy Item 96,Dairy,Amul
+P097,Dairy Item 97,Dairy,Amul
+P098,Beverages Item 98,Beverages,Coca-Cola
+P099,Beverages Item 99,Beverages,Coca-Cola
+P100,Snacks Item 100,Snacks,Lays
