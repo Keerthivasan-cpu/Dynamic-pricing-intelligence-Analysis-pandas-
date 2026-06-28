@@ -1,0 +1,101 @@
+date,product_id,platform,price,discount,stock_status
+2026-01-01,P001,Amazon,495.29,20,In Stock
+2026-01-01,P002,Flipkart,358.08,0,In Stock
+2026-01-01,P003,Blinkit,419.81,10,Out of Stock
+2026-01-01,P004,BigBasket,170.48,5,Out of Stock
+2026-01-02,P005,Amazon,145.68,15,Out of Stock
+2026-01-02,P006,Flipkart,448.11,15,In Stock
+2026-01-02,P007,Blinkit,169.2,5,Out of Stock
+2026-01-02,P008,BigBasket,386.16,15,Out of Stock
+2026-01-03,P009,Amazon,212.9,5,Out of Stock
+2026-01-03,P010,Flipkart,90.91,0,In Stock
+2026-01-03,P011,Blinkit,118.78,5,Out of Stock
+2026-01-03,P012,BigBasket,318.38,15,Out of Stock
+2026-01-04,P013,Amazon,318.15,15,Out of Stock
+2026-01-04,P014,Flipkart,486.99,0,In Stock
+2026-01-04,P015,Blinkit,356.77,20,Out of Stock
+2026-01-04,P016,BigBasket,395.87,10,In Stock
+2026-01-05,P017,Amazon,182.08,5,Out of Stock
+2026-01-05,P018,Flipkart,51.46,10,In Stock
+2026-01-05,P019,Blinkit,278.46,0,Out of Stock
+2026-01-05,P020,BigBasket,428.75,20,In Stock
+2026-01-06,P021,Amazon,118.78,5,In Stock
+2026-01-06,P022,Flipkart,319.53,15,In Stock
+2026-01-06,P023,Blinkit,100.34,10,Out of Stock
+2026-01-06,P024,BigBasket,157.75,5,In Stock
+2026-01-07,P025,Amazon,88.54,15,In Stock
+2026-01-07,P026,Flipkart,490.09,20,In Stock
+2026-01-07,P027,Blinkit,107.78,15,In Stock
+2026-01-07,P028,BigBasket,169.28,20,Out of Stock
+2026-01-08,P029,Amazon,483.96,20,In Stock
+2026-01-08,P030,Flipkart,370.83,15,Out of Stock
+2026-01-08,P031,Blinkit,247.15,20,Out of Stock
+2026-01-08,P032,BigBasket,104.45,5,In Stock
+2026-01-09,P033,Amazon,202.14,20,In Stock
+2026-01-09,P034,Flipkart,314.8,0,In Stock
+2026-01-09,P035,Blinkit,368.53,0,In Stock
+2026-01-09,P036,BigBasket,80.33,0,Out of Stock
+2026-01-10,P037,Amazon,81.89,5,Out of Stock
+2026-01-10,P038,Flipkart,351.04,5,In Stock
+2026-01-10,P039,Blinkit,375.51,20,Out of Stock
+2026-01-10,P040,BigBasket,159.35,15,Out of Stock
+2026-01-11,P041,Amazon,135.68,0,Out of Stock
+2026-01-11,P042,Flipkart,209.43,15,Out of Stock
+2026-01-11,P043,Blinkit,438.73,0,In Stock
+2026-01-11,P044,BigBasket,77.28,10,In Stock
+2026-01-12,P045,Amazon,161.9,5,Out of Stock
+2026-01-12,P046,Flipkart,113.08,5,Out of Stock
+2026-01-12,P047,Blinkit,258.18,0,Out of Stock
+2026-01-12,P048,BigBasket,413.61,20,In Stock
+2026-01-13,P049,Amazon,72.76,20,In Stock
+2026-01-13,P050,Flipkart,486.05,5,In Stock
+2026-01-13,P051,Blinkit,232.89,15,In Stock
+2026-01-13,P052,BigBasket,439.09,0,In Stock
+2026-01-14,P053,Amazon,220.54,15,Out of Stock
+2026-01-14,P054,Flipkart,466.93,15,Out of Stock
+2026-01-14,P055,Blinkit,240.35,20,Out of Stock
+2026-01-14,P056,BigBasket,119.66,10,In Stock
+2026-01-15,P057,Amazon,485.92,20,In Stock
+2026-01-15,P058,Flipkart,386.59,0,In Stock
+2026-01-15,P059,Blinkit,312.88,20,In Stock
+2026-01-15,P060,BigBasket,75.6,20,In Stock
+2026-01-16,P061,Amazon,433.1,0,In Stock
+2026-01-16,P062,Flipkart,353.85,5,Out of Stock
+2026-01-16,P063,Blinkit,103.95,20,In Stock
+2026-01-16,P064,BigBasket,310.51,0,In Stock
+2026-01-17,P065,Amazon,238.65,20,Out of Stock
+2026-01-17,P066,Flipkart,470.62,5,Out of Stock
+2026-01-17,P067,Blinkit,157.41,15,In Stock
+2026-01-17,P068,BigBasket,352.26,10,Out of Stock
+2026-01-18,P069,Amazon,192.28,0,In Stock
+2026-01-18,P070,Flipkart,256.23,20,In Stock
+2026-01-18,P071,Blinkit,82.97,5,Out of Stock
+2026-01-18,P072,BigBasket,109.61,10,In Stock
+2026-01-19,P073,Amazon,445.67,10,Out of Stock
+2026-01-19,P074,Flipkart,120.99,20,Out of Stock
+2026-01-19,P075,Blinkit,325.25,20,In Stock
+2026-01-19,P076,BigBasket,350.54,20,Out of Stock
+2026-01-20,P077,Amazon,469.29,0,In Stock
+2026-01-20,P078,Flipkart,169.01,0,In Stock
+2026-01-20,P079,Blinkit,172.56,20,In Stock
+2026-01-20,P080,BigBasket,372.93,5,Out of Stock
+2026-01-21,P081,Amazon,277.43,10,In Stock
+2026-01-21,P082,Flipkart,91.53,15,Out of Stock
+2026-01-21,P083,Blinkit,69.84,10,In Stock
+2026-01-21,P084,BigBasket,336.7,10,In Stock
+2026-01-22,P085,Amazon,383.55,20,Out of Stock
+2026-01-22,P086,Flipkart,302.41,0,In Stock
+2026-01-22,P087,Blinkit,475.27,5,In Stock
+2026-01-22,P088,BigBasket,425.57,20,In Stock
+2026-01-23,P089,Amazon,243.4,0,Out of Stock
+2026-01-23,P090,Flipkart,214.09,0,Out of Stock
+2026-01-23,P091,Blinkit,144.53,5,In Stock
+2026-01-23,P092,BigBasket,209.16,20,Out of Stock
+2026-01-24,P093,Amazon,488.23,5,In Stock
+2026-01-24,P094,Flipkart,439.07,5,Out of Stock
+2026-01-24,P095,Blinkit,61.15,10,Out of Stock
+2026-01-24,P096,BigBasket,411.01,5,Out of Stock
+2026-01-25,P097,Amazon,121.64,0,Out of Stock
+2026-01-25,P098,Flipkart,442.48,15,In Stock
+2026-01-25,P099,Blinkit,139.81,15,Out of Stock
+2026-01-25,P100,BigBasket,187.34,5,In Stock
